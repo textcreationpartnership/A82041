@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration and manifestation of the proceedings of both armies, also a true relation of the remarkable passages that have happened since Saturday, from the beginning of the fight to this present seventeenth of November. Together with their plundering of certaine west-countrey waines, and the retteat [sic] of Ais [sic] Majesties forces, as also of the death of certaine noble and eminent personages of His Majesties army: and how His Majesty sent a herald of armes concerning a treaty of peace, and while the paper was reading, a cannon vvas shot off, and the bullet whizzed by his excellencies eare. Also the manner of His Majesties armies retreat from Brainford to Kingstone upon Thames, and to Gilford, His Majesty being now at Oatlands: with the resolution of the Parliaments forces to pursue them.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82041</idno>
+            <idno type="STC">Wing D531</idno>
+            <idno type="STC">Thomason E127_24</idno>
+            <idno type="STC">ESTC R14227</idno>
+            <idno type="EEBO-CITATION">99859630</idno>
+            <idno type="PROQUEST">99859630</idno>
+            <idno type="VID">156208</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82041)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156208)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E127[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration and manifestation of the proceedings of both armies, also a true relation of the remarkable passages that have happened since Saturday, from the beginning of the fight to this present seventeenth of November. Together with their plundering of certaine west-countrey waines, and the retteat [sic] of Ais [sic] Majesties forces, as also of the death of certaine noble and eminent personages of His Majesties army: and how His Majesty sent a herald of armes concerning a treaty of peace, and while the paper was reading, a cannon vvas shot off, and the bullet whizzed by his excellencies eare. Also the manner of His Majesties armies retreat from Brainford to Kingstone upon Thames, and to Gilford, His Majesty being now at Oatlands: with the resolution of the Parliaments forces to pursue them.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Watson and Wil. Cook. [sic],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nouemb: 17th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156208:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <p>A DECLARATION AND Manifeſtation of the Proceedings of both Armies, alſo a true Relation of the remarkable Paſſages that have happened ſince Saturday, from the beginning of the fight to this preſent ſeventeenth of November.</p>
+            <p>Together with their plundering of certaine Weſt-Countrey Waines, and the retteat of Ais Majeſties Forces, as alſo of the death of certaine noble and eminent Perſonages of His Majeſties Army: and how His Majeſty ſent a Herald of Armes concerning a Treaty of Peace, and while the paper was reading, a Cannon vvas ſhot off, and the Bullet whizzed by his Excellencies Eare.</p>
+            <p>Alſo the manner of His Majeſties Armies Retreat from <hi>Brainford</hi>to <hi>Kingſtone</hi> upon <hi>Thames,</hi> and to <hi>Gilford,</hi> His Majeſty being now at <hi>Oatlands:</hi> with the Reſolution of the Parlia<g ref="char:EOLhyphen"/>ments Forces to purſue them.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Watſon</hi> and <hi>Wil. Cook..</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156208:2"/>
+            <!-- PDF PAGE 20 -->
+            <pb n="1" facs="tcp:156208:2"/>
+            <!-- PDF PAGE 20 -->
+            <head>A DECLARATION AND MANIFESTATION OF the Proceedings of both Armies, and alſo a true Relation of all the remarkable paſſages that have happened ſince Saturday from the beginning of the Fight to this preſent 17. of November, and of their plundering, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Plague proceeds from the hand of God, War from the hands of men; the ſins of men provo<g ref="char:EOLhyphen"/>king the juſtice of Almighty God both to viſit and chaſtiſe them. The hand of God hath theſe many yeers with ſlow and unwilling ſtrokes been correcting this Nation to repentance: and becauſe our willing blindneſſe would not let us take notice of the hand of God, he hath now left us to be puniſhed by the hands of men, in which God hath increaſed his judgments, as we have increaſed our ſins, and inſenſibly, yet gree<g ref="char:EOLhyphen"/>dily, we fall from one miſery to another; from the hands of God we
+<pb n="2" facs="tcp:156208:3"/>
+               <!-- PDF PAGE 21 -->are fallen into the hands of men, &amp; miſtaken in diſtempers of Religion either through too glaring or to dimme a zeale, wee have armed both Heaven and earth againſt us. What a miſery and an aſtoniſhment of heart is it, what a horrour, what a wonder to beholde a Nation whome the ſucceſſion of ſo many Princes had kept long flouriſhing in Peace, whome the bounty of the Sea had with watry armes in<g ref="char:EOLhyphen"/>creaſed, and defended from all forreigne danger, whom the honour of their Cheivalry had made the envy and ſupportance of other Nations ſhould fall now divided amongſt themſelves, and whome no hands but their owne could overcome ſhould dig into their owne bowells, and by a lamentable effuſion of bloud ſhould make their owne ſſ<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aughters the beſt Annalls of their immortality, and Religion? In the Relation of the Battaile at <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ton there haue not beene wanting able tongues and pennes? but becauſe Fancy hath per<g ref="char:EOLhyphen"/>ſwaded many men to bring in Victory to what ſide they pleaſe, and the truth of the proceedings in that battle, hath by Royall Authority Printed at Oxford been much inverted, I have addreſſed ſir this Relation of the battaile at Brainford unto you, and that without faction or affection, the Cauſes whereof are farre aſunder from me.</p>
+            <p>On Sat<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rday in the afternoone his Majeſties Forces taking the ad<g ref="char:EOLhyphen"/>vantage of the Miſt in a cloſe and ſtill march brought up their forces unto Brainford, they had entred the old towne as farr as the Bridge, where they were incountred by my Lord Roberts Regiment, who hearing how neare the Kings fo<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ces had advanced themſelves, remo<g ref="char:EOLhyphen"/>ved that morning from Putney, and were now marching towards Acton where the night before they were to lodge. The unexpected preſence of his Majeſties forces did not amaze them but incourage them, with great reſolution they came up unto the charge, my Lord Roberts himſelf amongſt the formoſt beſtirred him moſt bravely, and ſhewed himſelfe moſt worthy of ſo abſolute a Regiment as they themſelves worthy of ſo brave a Colonell, maugre the forces of Prince Rupert they ſtill maintained the Bridge, and with one Regi<g ref="char:EOLhyphen"/>ment did oppoſe the Army Royall. When their powder and ſhot was ſpent they would not abandon the place, &amp; were leſſe weary of their Bauſe &amp; Colonell then of their lives, They reſolved with their Swords and butt end of Muskets to diſpute it out unto the laſt man,
+<pb n="3" facs="tcp:156208:3"/>
+               <!-- PDF PAGE 21 -->when (as ſucceſſe often attends high reſolves) behold where Colonel Hampdens and Colonell Hollis Regiment came in to ſecond them, and clearing the bridge with the loſſe but of a few of our men, made great ſlaughter of the adverſaries. The night following paſſed with little ſleep on either ſide, they were carefull to obſerve all advantages and warnings whatſoever, and the noiſe of preparations from Lon<g ref="char:EOLhyphen"/>don did incourage one, and affright the other. In the morning it was reported that His Majeſty had ſent unto his Excellence concerning a Treaty of Peace; his Excellence had that morning drawn forth and marſhalled his Army, with intent either to receive or give the battell. He was more deſirous of peace then victory, and while with earneſt eyes he vvas peruſing the Paper from His majeſty, the hope and har<g ref="char:EOLhyphen"/>mony of peace vvas loſt in the lowd voice of a Canon, vvhich at that inſtant had di<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>charged a bullet amongſt his Excellencies Troupes, and whizzing by his Excellencies eare, gave him counſell, where ever he heard of t<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at, to looke unto himſelf; no greater hoſtility was that day acted, and his Majeſties meſſengers for a pretended peace were rather admitted then believed. The ſouldiers cried, no parley, and were very eager to have the fight begun. That afternoon there came up two Ve<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>els which were appointed to guard the Thames, and diſcharged many ſmall Peeces againſt Sion Houſe, vvhich belongs unto my Lord of Northumberland, and vvhere it is thought were then reſident ſome perſons of the higheſt account in His Majeſties Army, they did beat downe and maime much of the building which ſtood towards the waters ſide, and were ſecure themſelves by reaſon that the peeces that were planted on the top of Sion houſe did ſtill ſhoot over them, and thoſe that vvere planted lovver vvere diſcharged vvith ſo much inconvenience, that they never came neer them: hovvſoever one of our Veſſels in their returne to London vvas ſunk, the Men, Cannon and Ammunition being all preſerved. Our men that performed this ſervice by vvater gave the Kings Engineeres much commendation, and ſaid, they never ſavv men give fire better. Tovvards th<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> evening Prince Robert made as if he vvould incampe himſelfe, and the Works ſeemed to be follovved vvith great induſtry from Brainford up tovvards my Lord of Deſmonds houſe, but all in policie, for by that invention he had the meanes and opportunity to withdraw his Canon &amp; Artillery from Brainford vvith leſſe ſuſpition, which being
+<pb n="4" facs="tcp:156208:4"/>
+               <!-- PDF PAGE 22 -->ob<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ayned he retreated with ſome diſorder and what ſpeed he could towards Kingſton. This was no ſooer diicovered by his Excellence, but he thundred againſt him with 16 or, 18. Cannon ſhot which o<g ref="char:EOLhyphen"/>vertook his troops with as much indignation as they ran away with feere, and levelling of them with the ground told them how bad a couneellor was feare. There was after their depaature many muskets found that inſtead of bullets were laden with arrows which in the muskets were united into one body and ſeemed but one arrow, but in the diſcharge they divided themſelves, and were full of danger, a new and deſperate way of murther,</p>
+            <p>The infantry of his Majeſty now extreamely poore, many of them are reported to be Iriſh, had you ſeene them, you would have called them rather the ragged then the royall regiments, to cover which de<g ref="char:EOLhyphen"/>fect aſſiſted by neceſſity the mother of invention, they found a means to relieve themſelves.</p>
+            <p>On Munday about ten of the clock in the morning it was their for tune to meet with 4 or 5 wains laden with cloath from. Gloceſter<g ref="char:EOLhyphen"/>ſhire were conveighing their carriag unto London with out any long ſalutation the ſouldiers demanded of them what was their carriage, although it is not to be doubted but that thay knew very well what it was anſwer was made with much ſpeek and more trembling, that it was cloath which they were carrying unto London thay deſired them as they were gentremen they would not wrong them they de<g ref="char:EOLhyphen"/>manded of them again if they knew what the comm<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſion of Aarray was, which when they replyed, they did not very well, they told them that they would help their underſtandings to conceive it, and cutting the cords from the wains, &amp; ſhewing them in what a naked eſtate their preſent condition was, they fel to plundring of the wains the firſt man that drew his ſword was one Hemor, he had bin ſome<g ref="char:EOLhyphen"/>times a barber in the City, &amp; a mad ſhaver in the field. The cloath was not meaſured by the yard, &amp; the handfull over he ſaid was the City meaſure, &amp; a little to preciſe, the which he did abhorre, but from the elbow to the end of the middle ſinger, which he called a cubite, two cubites and a halfe was allowed for a yard, and ſometimes grum<g ref="char:EOLhyphen"/>bled at as ſcanting meaſure to, thus they devided amongſt them with their ſwords the poor mans cloath who cryed out Gent, what mean you, anſwer was made that they wanted cloaths, &amp; that they meant
+<pb n="5" facs="tcp:156208:4"/>
+               <!-- PDF PAGE 22 -->to make them underſtand, and to obey the Commiſſion of Array, and having ſufficiently pillaged the wains, they made after their comrads with what ſpeed they could, who wondring to ſee every man laden with ſo much cloth, deſired to be partakers of their adventure, and would fain know how honeſtly they came by it. According to She<g ref="char:EOLhyphen"/>rards premonition they returned no other anſwer but this, Cloth, Oth, Noth, which being in a language not to be underſtood, was thus conſtrued by them; Cloth, that they had gotten cloth to make them a ſuit: Oth, that they owed for it: Noth, that they would pay nothing for it. Thus in the midſt of danger, and his Excellencies Army pur<g ref="char:EOLhyphen"/>ſuing them at the heels, did they make a ſport of robbery, a wretched ſort of people, who condemned to robbery, do thrive by extortion, as the uſurer by his money, and by a leſſe cruell method they have found a more compendious way by rapine and deſtruction unto wealth.</p>
+            <p>On the report of the death of ſome ſouldiers in my Lord Roberts his Regiment on Saturday laſt, their wives now in London, whoſe names had almoſt dropt from my pen, hearing of it, did forth with put themſelves into mourning habit, but miſtaken in the intelligence, on the munday following did ſhake off at once both their ſorrowes and blacks, one of them who was overcome with ſorrow at the report of her husbands death, was wonderfully re-comforted at the ſight of his return, wherein her excellence was ſuch, that ſhe began now to feel a neerer violence from her own joy, and fainting away in his armes, had almoſt made him a widdower, whoſe widdow ſhe ſuppoſed ſhe had been.</p>
+            <p>One thing cannot be forgotten, and that is, that it is generally be<g ref="char:EOLhyphen"/>lieved that Prince Robert is dead, and that he was ſlain at the battell of Kynton, and to be one of thoſe brave Cavaliers that were buried in Chriſt-Church at the Kings firſt coming to Oxford, and that he who perſonates him now is William the young Lord Strafford, who is much like P. Robert in growth and ſtature, but more like his father in phyſiognomy, who was too true a prophet of theſe civill tumults. And to add a greater belief to this apprehenſion &amp; report, beſides the acknowledgment that it is a frequent policy in war ſo to do, to keep the army undiſcouraged, is an obſervation upon my L. of Northamp<g ref="char:EOLhyphen"/>tons death, who was a principall agent for his Majeſty in Warwick<g ref="char:EOLhyphen"/>ſhire for the commiſſion of Array; it is credibly reported that he was
+<pb n="4" facs="tcp:156208:5"/>
+               <!-- PDF PAGE 23 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:156208:5"/>
+               <!-- PDF PAGE 23 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:156208:6"/>
+               <!-- PDF PAGE 24 -->ſlain before Coventry at the ſame time when Captaine Leg was ta<g ref="char:EOLhyphen"/>ken priſoner; for ſince that time he was never heard of, nor any news concerning him, and that becauſe he ſhould not be diſcovered by any of the Parliaments ſouldiers, in that ſuddain tumult and confuſion, one of his own ſouldiers, being unable to carry him away, did cut off his head and took it with him, the policy of war in this way preven<g ref="char:EOLhyphen"/>ting the juſtice of the Parliement.</p>
+            <p>The Lord Brook on munday morning, being the 14. of Novemb. ſet forward from his own houſe in Holborne towards the Army, hee had the acclamations and hearty wiſhes of all the people as he paſſed by, and no doubt but his journey will find ſucceſſe, which hath beene furthered by ſo many prayers.</p>
+            <p>On munday night there was brought to Black-Friers from Brain<g ref="char:EOLhyphen"/>ford the body of Lieutenant Colonel Quales, who was ſlain at Bran<g ref="char:EOLhyphen"/>ford, and to be interred with ſome others there ſlain in one common grave, but being conveighed (as was ſaid) to London, he received more ſolemne rights, and ſlept alone.</p>
+            <p>On that night there was brought from Brainford guarded by ſome of Colonell Hollis Regiment 22. Cavaliers, moſt of them extremely poor, ſome of them extremely wounded, neither had any of them the aſpect of a true ſouldier, except two Gentlemen, one of which was ſaid to have been ſomtimes of the inner Temple, and a Knights ſon of great repute in Oxfordſhire.</p>
+            <p>His Majeſty is this day, being the 15. of Novemb. at Iſleworth, ſome part of his Excellencies Army are marched to meet Prince Ro<g ref="char:EOLhyphen"/>berts Forces on the Front, and his Excellency continueth ſtil to pur<g ref="char:EOLhyphen"/>ſue them on the Reare; it is verily believed that ere many dayes be paſſed over, Prince Robert and his Forces will be ſo hem'd in, that he will no more finde means and opportunity to eſcape, that his fly<g ref="char:EOLhyphen"/>ing army will have their wings cut, neither that there ſhall be any ſlight or ſtratagem for the further delay of the warre, but that their unnaturall tumults ſhall finde a period by a ſpeedy reconcilement, or by a happy victory, wherein His Majeſties Perſon ſhalbe ſecured from any further danger, his royall thoughts from entertaining any evill counſels, and his Kingdomes from the pale hand of ruine, and the bloudy one of War.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
